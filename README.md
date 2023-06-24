@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kasun Kavinda</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+<h3 align="center">A Passionate Software Engineer from Sri Lanka</h3>
+
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codewars.com%2Fpost%2F10-different-types-of-software-engineers-a-comprehensive-guide&psig=AOvVaw3WYMBXn_GZzPL_tGgekLFT&ust=1687681419261000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDwhK692_8CFQAAAAAdAAAAABAE">
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/KasunKVI/MyPortfolio)
 
