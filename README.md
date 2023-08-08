@@ -1,7 +1,27 @@
 <h1 align="center">Hi 👋, I'm Kasun Kavinda</h1>
 <h3 align="center">A Passionate Software Engineer from Sri Lanka</h3>
 
-<img src="">
+  <div style="max-width: 500px; position: relative; margin: auto; overflow: hidden;">
+    <img class="slideshow-img" src="chatApp_1.png" alt="Image 1" style="width: 100%; height: auto; display: block;">
+    <img class="slideshow-img" src="chatApp_2" alt="Image 2" style="width: 100%; height: auto; display: none;">
+    <img class="slideshow-img" src="chatApp-3" alt="Image 3" style="width: 100%; height: auto; display: none;">
+    <script>
+      let slideIndex = 0;
+      showSlides();
+
+      function showSlides() {
+        let slides = document.querySelectorAll(".slideshow-img");
+        for (let i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";
+        }
+        slideIndex++;
+        if (slideIndex > slides.length) {
+          slideIndex = 1;
+        }
+        slides[slideIndex - 1].style.display = "block";
+        setTimeout(showSlides, 2000); // Change slide every 2 seconds
+      }
+    </script>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/KasunKVI/MyPortfolio)
 
