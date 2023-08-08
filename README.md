@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kasun Kavinda</h1>
 <h3 align="center">A Passionate Software Engineer from Sri Lanka</h3>
 
-
+<video controls autoplay loop>
+<source src="frame-1_vmNCCGey.mp4" type="video/mp4">
+</video>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/KasunKVI/MyPortfolio)
 
