@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Kasun Kavinda ,.....A Passionate Software Engineer from Sri Lanka</h2>
+<h2 align="left">Hi 👋! I'm Kasun Kavinda ,<br>.....A Passionate Software Engineer from Sri Lanka</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/KasunKVI/KasunKVI/output/snake.svg" alt="Snake animation" />
+<img " alt="Snake animation" />
 
 ###
 
