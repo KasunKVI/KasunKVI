@@ -48,13 +48,6 @@
 
 <br clear="both">
 
-<img " alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/KasunKVI/count.svg?"  />
-</div>
 
 ###
 
