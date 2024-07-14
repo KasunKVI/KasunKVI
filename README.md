@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Kasun Kavinda ,<br>.....A Passionate Software Engineer from Sri Lanka</h2>
+<h2 align="left">Hi 👋! I'm Kasun Kavinda ,<br>.....Java Enthusiest | Full Stack Developer</h2>
 
 ###
 
